@@ -9,7 +9,7 @@
  * Author URI: https://smkonline.co/
  * License: GPL2
  * License URI: https://www.gnu.org/licenses/old-licenses/gpl-2.0.html
- * Text Domain: disable-plugins-admin
+ * Text Domain: wp-disable-plugins
  * Domain Path: /lenguages
  */
 
